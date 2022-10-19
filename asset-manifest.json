@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/micro-app-api-currency-exchange/static/css/main.94eae723.css",
+    "main.js": "/micro-app-api-currency-exchange/static/js/main.2e01aae3.js",
+    "static/media/money.png": "/micro-app-api-currency-exchange/static/media/money.807f894202012eb188b9.png",
+    "index.html": "/micro-app-api-currency-exchange/index.html",
+    "main.94eae723.css.map": "/micro-app-api-currency-exchange/static/css/main.94eae723.css.map",
+    "main.2e01aae3.js.map": "/micro-app-api-currency-exchange/static/js/main.2e01aae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94eae723.css",
+    "static/js/main.2e01aae3.js"
+  ]
+}
